@@ -1,0 +1,6 @@
+status = [
+  "ci/jenkins"
+]
+
+timeout_sec = 300
+
